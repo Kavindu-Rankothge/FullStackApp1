@@ -1,0 +1,65 @@
+[
+	{
+		"id" : 10,
+		"email" : "kavindu@gmail.com",
+		"employee_code" : "cf782307-8a5e-4e68-9ef2-37bccfce9d73",
+		"image_url" : "https://robohash.org/kavindu",
+		"job_title" : "Free",
+		"name" : "Kavindu Rankothge",
+		"phone" : "0777777777"
+	},
+	{
+		"id" : 9,
+		"email" : "nehan@gmail.com",
+		"employee_code" : "3a298653-72e6-4707-a6a2-a24be652f1bd",
+		"image_url" : "https://robohash.org/nehan",
+		"job_title" : "Web Dev",
+		"name" : "Nehan Sen",
+		"phone" : "0897654321"
+	},
+	{
+		"id" : 3,
+		"email" : "ridmi@gmail.com",
+		"employee_code" : "14cd290a-50bb-411f-a61a-66046ef1eeeb",
+		"image_url" : "https://robohash.org/ridmi",
+		"job_title" : "Quality Assurance",
+		"name" : "Ridz Nik",
+		"phone" : "0711232345"
+	},
+	{
+		"id" : 4,
+		"email" : "nilu@gmail.com",
+		"employee_code" : "aaf51c89-5bab-4322-bd8e-b44480a9bcfb",
+		"image_url" : "https://robohash.org/nilu",
+		"job_title" : "Manager",
+		"name" : "Nilu Fila",
+		"phone" : "0888888888"
+	},
+	{
+		"id" : 5,
+		"email" : "cecil@gmail.com",
+		"employee_code" : "a66300ca-bccb-4379-b90e-dff87ecf742a",
+		"image_url" : "https://robohash.org/cecil",
+		"job_title" : "Software Engineer",
+		"name" : "Ccesil Krans",
+		"phone" : "0115727890"
+	},
+	{
+		"id" : 6,
+		"email" : "philips@gmail.com",
+		"employee_code" : "e7dd6b0b-9b8f-44f2-b632-d0bd1253bfc4",
+		"image_url" : "https://robohash.org/philips",
+		"job_title" : "Graphic Designer",
+		"name" : "ranid hips",
+		"phone" : "0716781234"
+	},
+	{
+		"id" : 7,
+		"email" : "nisan@gmail.com",
+		"employee_code" : "e5af1464-1e85-4f53-97ec-f59e6cec1303",
+		"image_url" : "https://robohash.org/nisan",
+		"job_title" : "Pro Gamer",
+		"name" : "Nisan Balasuriya",
+		"phone" : "0778889090"
+	}
+]
